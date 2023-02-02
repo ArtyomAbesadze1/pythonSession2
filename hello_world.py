@@ -2,11 +2,11 @@
 
 choice = input("Choose A or B: ")
 if choice == "A":
-   print("You chose A")
+    print("You chose A")
 if choice == "B":
-   print("you chose B")
+    print("you chose B")
 elif choice != "A" or "B":
-   print("You didn't choose")
+    print("You didn't choose")
 
 
 
